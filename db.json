@@ -1,0 +1,77 @@
+{
+  "posts": [
+    {
+      "firstName": "govind",
+      "lastName": "lowanshi",
+      "birthday": "2002-10-22",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "geexu",
+      "jobExperience": 2,
+      "salary": 23,
+      "profile": "images1.png",
+      "id": 1
+    },
+    {
+      "firstName": "abhishek",
+      "lastName": "chavan",
+      "birthday": "2010-06-11",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "geexu",
+      "jobExperience": 4,
+      "salary": 3,
+      "profile": "images1.png",
+      "id": 2
+    },
+    {
+      "firstName": "sameer",
+      "lastName": "khan",
+      "birthday": "2000-01-11",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "tcs",
+      "jobExperience": 5,
+      "salary": 5,
+      "profile": "pp.jpg",
+      "id": 3
+    },
+    {
+      "firstName": "jcnn",
+      "lastName": "kh cdc ",
+      "birthday": "2023-02-21",
+      "gender": "m",
+      "education": "graduate",
+      "company": "x qc ",
+      "jobExperience": 5,
+      "salary": 4,
+      "id": 4
+    },
+    {
+      "firstName": "ram",
+      "lastName": "sigh",
+      "birthday": "2023-03-28",
+      "gender": "m",
+      "education": "graduate",
+      "company": "google",
+      "jobExperience": 3,
+      "salary": 4,
+      "id": 5
+    },
+    {
+      "firstName": "sachine",
+      "lastName": "sighn",
+      "birthday": "2023-02-22",
+      "gender": "m",
+      "education": "post graduate",
+      "company": "google",
+      "jobExperience": 7,
+      "salary": 9,
+      "id": 6
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
